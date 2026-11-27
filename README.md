@@ -5,10 +5,13 @@
 # Awesome Human Mesh Recovery & 3D Pose Estimation 🏃‍♂️✨
 
 <p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Human-Mesh-Recovery-3D-Pose-Estimation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Human-Mesh-Recovery-3D-Pose-Estimation?style=for-the-badge&logo=github&color=blue" alt="Stars Badge"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Human-Mesh-Recovery-3D-Pose-Estimation/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Human-Mesh-Recovery-3D-Pose-Estimation?style=for-the-badge&logo=github&color=purple" alt="Forks Badge"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Human-Mesh-Recovery-3D-Pose-Estimation/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge" alt="PRs Welcome"/></a>
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://img.shields.io/badge/Awesome-Listed-fc60a8?style=for-the-badge&logo=awesome" alt="Awesome Listed"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-Listed-fc60a8?style=for-the-badge&logo=awesome" alt="Awesome Listed"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 > 🌟 **A curated list of top human mesh recovery (HMR), 3D human pose estimation (HPE), markerless motion capture (MoCap), SMPL / SMPL-X / MHR body reconstruction, and 3D character animation pipelines.** Featuring commercial cloud SaaS platforms alongside leading open-source models ranked by community adoption.
@@ -25,6 +28,8 @@
   - [🖐️ Whole-Body, Hand & Face Mesh Reconstruction](#️-whole-body-hand--face-mesh-reconstruction)
   - [🎬 3D Animation, Retargeting & Blender DCC Integrations](#-3d-animation-retargeting--blender-dcc-integrations)
 - [🤝 Contributing](#-contributing)
+- [💖 Support & Sponsor](#-support--sponsor)
+- [📈 Star History](#-star-history)
 - [📄 License](#-license)
 
 ---
@@ -72,7 +77,7 @@ Frameworks that recover 3D human body meshes (SMPL, SMPL-X, MHR) from single RGB
    * *Description:* Video Inference for Body Pose and Shape Estimation using adversarial temporal learning to predict kinematically plausible 3D SMPL sequences.
 2. **[HMR (End-to-end Recovery)](https://github.com/akanazawa/hmr)** [![Stars](https://img.shields.io/github/stars/akanazawa/hmr?style=social&color=white)](https://github.com/akanazawa/hmr/stargazers) 🌟
    * *Description:* Seminal deep learning framework for end-to-end recovery of 3D human shape and pose from a single monocular image.
-3. **[4D-Humans (HMR 2.0)](https://github.com/shubham-goel/4D-Humans)** [![Stars](https://img.shields.io/github/stars/shubham-goel/4D-Humans?style=social&color=white)](https://github.com/shubham-goel/4D-Humans/stargazers) 🌟
+3. **[4D-Humans (HMR 2.0)](https://github.com/shubham-goel/4D-Humans)** [![Stars](https://img.shields.io/github/stars/shubham-goel/4D-Humans/stargazers) 🌟
    * *Description:* State-of-the-art transformer-based 3D human mesh recovery and tracking system from monocular video in dynamic scenes.
 4. **[ROMP](https://github.com/Arthur151/ROMP)** [![Stars](https://img.shields.io/github/stars/Arthur151/ROMP?style=social&color=white)](https://github.com/Arthur151/ROMP/stargazers) 🌟
    * *Description:* Monocular, one-stage, multi-person 3D mesh regression network capable of real-time multi-human body estimation.
@@ -176,6 +181,27 @@ Contributions are warmly welcomed! Help keep this repository comprehensive and u
    * **[Project-Name](repo-url)** [![Stars](https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white)](repo-url/stargazers) 🌟 - Brief description.
    ```
 4. 🚀 Commit your changes and open a **Pull Request**.
+
+---
+
+## 💖 Support & Sponsor
+
+Thank you so much for exploring and using this repository! If you find this curated collection of human mesh recovery and 3D pose estimation tools useful:
+
+- 🌟 **Star** the repository to show support and boost discovery.
+- 🍴 **Fork** and share it with fellow researchers, animators, and developers.
+- ☕ If you'd like to support ongoing maintenance and new features, consider buying a coffee or becoming a sponsor:
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub" />
+  </a>
+</p>
+
+---
+
+##  Star History
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Human-Mesh-Recovery-3D-Pose-Estimation&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Human-Mesh-Recovery-3D-Pose-Estimation&type=date&legend=top-left)
 
 ---
 
