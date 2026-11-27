@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Human-Mesh-Recovery-3D-Pose-Estimation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Human-Mesh-Recovery-3D-Pose-Estimation?style=for-the-badge&logo=github&color=blue" alt="Stars Badge"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Human-Mesh-Recovery-3D-Pose-Estimation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Human-Mesh-Recovery-3D-Pose-Estimation?style=for-the-badge&logo=github&color=blue" alt="Stars_Badge"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Human-Mesh-Recovery-3D-Pose-Estimation/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Human-Mesh-Recovery-3D-Pose-Estimation?style=for-the-badge&logo=github&color=purple" alt="Forks Badge"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Human-Mesh-Recovery-3D-Pose-Estimation/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge" alt="PRs Welcome"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-Listed-fc60a8?style=for-the-badge&logo=awesome" alt="Awesome Listed"/></a>
@@ -67,7 +67,7 @@ Commercial AI motion capture studios, browser-based video-to-3D animation platfo
 
 State-of-the-art open-source software (FOSS), deep learning foundation models, real-time pose lifting pipelines, and DCC animation integrations.
 
-> **Sorted by GitHub Stars (Descending) within each category:**
+> **Sorted by GitHub_Stars (Descending) within each category:**
 
 ### 🧍 Monocular & Video Human Mesh Recovery (SMPL / SMPL-X)
 
